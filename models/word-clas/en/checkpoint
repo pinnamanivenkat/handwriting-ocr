@@ -1,0 +1,2 @@
+model_checkpoint_path: "WordClassifier"
+all_model_checkpoint_paths: "WordClassifier"
